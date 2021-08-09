@@ -217,7 +217,7 @@ for more information.
 <h2 id="materials" name="materials">Training Materials and Schedule</h2>
 
 <p>
-  Please see <a href="{{ site.training_site }}">this site</a> for course material and tentative schedule.
+  Please see <a href="https://data-lessons.github.io/instructor-training/">this site</a> for course material and tentative schedule.
 </p>
 
 

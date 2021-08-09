@@ -288,7 +288,7 @@ for more information.
 <p id="etherpad">
   <strong>Etherpad:</strong> <a href="https://pad.carpentries.org/2021-08-18-ttt-online-CDT"></a>.
   <br/>
-  We will use this Etherpad for chatting, taking notes, and sharing URLs and bits of code.
+  We will use this <a href="https://pad.carpentries.org/2021-08-18-ttt-online-CDT">Etherpad</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 
 

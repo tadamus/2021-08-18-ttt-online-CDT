@@ -282,16 +282,15 @@ for more information.
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
 -->
-{% if page.etherpad %}
+
 <hr/>
 
 <p id="etherpad">
-  <strong>Etherpad:</strong> <a href="{{page.etherpad}}">{{page.etherpad}}</a>.
+  <strong>Etherpad:</strong> <a href="https://pad.carpentries.org/2021-08-18-ttt-online-CDT"></a>.
   <br/>
   We will use this Etherpad for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 
-{% endif %}
 
 <h2 id="pre_workshop_survey">Surveys</h2>
 
